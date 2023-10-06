@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+#ventasTable
+{
+    border-collapse: collapse;
+    margin-right: 15px;
+    border-color: rgb(28, 115, 190);
+    margin-bottom: 20px;
+    width: 500px;
+}
